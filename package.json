@@ -1,18 +1,13 @@
 {
-  "name": "fcc-learn-npm-package-json",
-  "author": "foobar",
-  "dependencies": {
-    "express": "^4.14.0"
-  },
-  "main": "server.js",
+  "name": "dangchauky",
+  "version": "1.0.0",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "engines": {
-    "node": "8.11.2"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/chaukydang/boilerplate-npm.git"
-  }
+  "keywords": [],
+  "author": "ChauKy",
+  "license": "ISC",
+  "description": ""
+
 }
